@@ -1,0 +1,21 @@
+.sidebaritem{
+    display: flex;
+    padding-top: 10px 0;
+    border-radius: 0 100px 100px 0;
+}
+.sidebaritem:hover{
+    background-color:rgba(0, 0, 0,0.4);
+}
+.sidebaritem_arrow{
+    width:30px;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+.saidebaritem__main{
+    display: flex;
+    align-items: center;
+}
+.saidebaritem__main >p{
+    margin-left: 20px;
+    
+}
